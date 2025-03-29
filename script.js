@@ -38,7 +38,7 @@ const messages = [
     },
     {
         image: "assets/10.jpg",
-        text: "Ok sekarang kirim ya pap OOTD lebarang kamu ke WA seng"
+        text: "Ok sekarang kirim ya pap OOTD lebaran kamu ke WA seng"
     }
 ];
 
